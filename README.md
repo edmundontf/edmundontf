@@ -2,7 +2,10 @@
 
 
 - 💼  Atualmente trabalho como Analista de Sistemas.
-- 📖  Estou trabalhando e estudando linguagens como: ( HTML,CSS, JS,React,Java )
+- 📖  Estou Desenvolvendo com as linguagens: ( HTML,CSS, JS,React,Java )
+- Logo deixarei meu perfil bem completo para vocês darem uma olhada nos meus projetos. 
+
+
 <hr>
  <div>
   <a href="https://github.com/edmundontf">
