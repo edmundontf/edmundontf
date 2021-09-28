@@ -2,7 +2,7 @@
 
 
 - 💼  Atualmente trabalho como Analista de Sistemas.
-- 📖  Estou Desenvolvendo com as linguagens: ( HTML,CSS, JS,React,Java )
+- 📖  Estou Desenvolvendo com as linguagens: ( HTML,CSS, JS,React,Java, Dart e Flutter )
 - Logo deixarei meu perfil bem completo para vocês darem uma olhada nos meus projetos. 
 
 
